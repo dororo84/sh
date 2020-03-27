@@ -1,5 +1,5 @@
-# sh
-小白写的自用sh脚本
+# 自用Snell一键脚本
+
 
 ## snell.sh
 ``` bash
