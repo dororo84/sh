@@ -34,7 +34,7 @@ fi
 Download_snell(){
 	mkdir /root/snell
 	cd /root/snell
-    wget -N --no-check-certificate https://github.com/surge-networks/snell/releases/download/2.0.0b12/snell-server-v2.0.0-b12-linux-amd64.zip
+    wget -N --no-check-certificate https://github.com/surge-networks/snell/releases/download/2.0.0/snell-server-v2.0.0-linux-amd64.zip
     unzip snell*.zip
     mv snell-server snell
     rm -rf snell*.zip
